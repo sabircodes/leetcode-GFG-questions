@@ -1,8 +1,8 @@
 
 //IMAGINE NEIGHBOURS  LIKE THIS
-//[0,0]     [-1,0]   [-1,1]
-//[0,-1] -->[0,0]<-- [0,1]
-//[1,-1]     [1,0]   [1,1]
+//[-1,-1]     [-1,0]   [-1,1]
+//[0,-1] -->  [0,0]<--   [0,1]
+//[1,-1]      [1,0]     [1,1]
 //Here [0,0] is the first index of 2D matrix and all the other index are its neighbours 
 //the live function count number of 1 in the neighbours
 
